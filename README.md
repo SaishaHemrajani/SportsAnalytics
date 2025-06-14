@@ -1,7 +1,13 @@
 # Sports Analytics
-Analyzing the Olympics dataset using SQL queries, Excel and PowerBI.
 
-**Problem Solving Using Excel**
+**Project Overview**
+
+This Sports Analytics is based on Historical data on the modern Olympic Games, from Athens 1896 to Rio 2016.
+This project aims to discover important insights and trends from the large dataset, which contains information regarding athletes, events, medals, countries, and more. This project will deliver a detailed overview of Olympic history, enabling conclusions that are informed by data.
+
+In order to accomplish the objectives of our Project, there is a particular set of questions that, in summary, yield insights into the data and will support the preparation of the data Summary. Analyzing the Olympics dataset using SQL queries, Excel and PowerBI.
+
+**Problem Solving Using Excel & SQL**
 
 In this project, I have tackled the following 18 problems using the Olympics dataset:
 
@@ -49,15 +55,6 @@ In this project, I have tackled the following 18 problems using the Olympics dat
 18.	What is the distribution of medals among different regions?
 
 
+**Conclusion**
 
-Break down all Olympic games where India won a medal for Hockey and indicate how many medals were won in each Olympic game.
-Files
-All questions.sql: Contains the SQL queries used to solve the problems mentioned above.
-Getting Started
-To run these queries, follow these steps:
-
-Install PostgreSQL on your system if not already done.
-Create a database and import the Olympics dataset.
-Open a SQL client (e.g., pgAdmin) and execute the queries in the queries.sql file.
-Conclusion
-This project demonstrates the application of SQL queries on the Olympics dataset to extract valuable insights and answers to specific questions. The queries provide a deeper understanding of the historical Olympic data and showcase the capabilities of SQL for data analysis.
+This project demonstrates the application of SQL queries and PowerBI on the Olympics dataset to extract valuable insights and answers to specific questions. The queries provide a deeper understanding of the historical Olympic data and showcase the capabilities of SQL for data analysis.
