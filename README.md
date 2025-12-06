@@ -1,4 +1,4 @@
-# Sports Analytics
+# Olympic Games Analysis from 1896 to 2020
 
 **Project Overview**
 
